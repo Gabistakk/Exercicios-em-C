@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Gabistakk
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c, python, .NET (c#)
-- 💞️ I’m looking to do internships in companies
-- 📫 How to reach me, e mail: gabistakk@gmail.com
+This repository is to keep and showcase exercises that i did in C.
 
 <!---
 Gabistakk/Gabistakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
